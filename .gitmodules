@@ -1,3 +1,6 @@
 [submodule "Soroban"]
 	path = Soroban
 	url = https://github.com/Fatihkb5161/Soroban.git
+[submodule "Image-Processing"]
+	path = Image-Processing
+	url = https://github.com/Fatihkb5161/Image-Processing.git
